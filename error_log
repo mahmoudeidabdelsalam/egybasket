@@ -1,0 +1,44 @@
+[07-Jan-2021 20:48:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/index.php on line 1
+[22-May-2021 22:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
+[14-Nov-2021 20:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
+[15-Dec-2021 00:34:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
+[16-Dec-2021 20:46:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
+[27-Feb-2022 14:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
+[28-Feb-2022 17:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
+[01-Mar-2022 18:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
+[28-Mar-2022 16:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
+[29-Mar-2022 15:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
+[15-Jun-2022 05:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/egyptbasket/public_html/wp-content/themes/egybasket/404.php on line 1
